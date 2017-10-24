@@ -1,0 +1,11 @@
+{
+    "require": {
+        "phpspec/phpspec": "^4.1",
+        "doctrine/common": "^2.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Example\\": "src/Example"
+        }
+    }
+}
